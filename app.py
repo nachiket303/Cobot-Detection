@@ -124,4 +124,4 @@ if uploaded_file is not None:
         st.warning("No cobot activity detected.")
 
 
-st.write("Model developed by Mr. Nachiket K Shejwal 2025")
+st.write("© Model developed by Mr. Nachiket K Shejwal 2025")
